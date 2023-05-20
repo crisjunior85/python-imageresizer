@@ -1,1 +1,1 @@
-# python-imageresizer
+resizes images
